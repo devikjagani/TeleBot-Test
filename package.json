@@ -1,0 +1,1 @@
+{"name":"telegram-notification-tester","version":"1.0.0","private":true,"description":"Apple-inspired glass UI for testing Telegram bot notifications","scripts":{"start":"node server.js"},"engines":{"node":">=18"}}
